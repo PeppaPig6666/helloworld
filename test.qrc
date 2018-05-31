@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/png">
+        <file>beijing.jpg</file>
+        <file>yihetang.jpg</file>
+        <file>yi.jpg</file>
+        <file>beijing4.jpg</file>
+    </qresource>
+</RCC>
